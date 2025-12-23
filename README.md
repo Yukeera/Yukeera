@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+</div>
+
+<div align="center">
   <h1>
     Olá, eu sou Fernando Yuri! 
     <img src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjY0NjQ2MzEsIm5iZiI6MTc2NjQ2NDMzMSwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjIzVDA0MzIxMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJkNjBmYmZlNzEzNzc2OTJhZTYyNGIyMjc1ZmIxZTE5MWNjMGJiN2RlMjJmZTJjODY1NDdjZGM0YWExZGViZWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.UKn-9U9He0_NFcXlRFI08TrFLMIQENSAv9VQzDoRHlY" width="30px">
